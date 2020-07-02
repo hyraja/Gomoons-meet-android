@@ -158,7 +158,7 @@
 
     move-result-object v0
 
-    const-string v1, "https://meet.jit.si"
+    const-string v1, "https://live.artemustech.com"
 
     .line 92
     invoke-direct {p0, v1}, Lorg/jitsi/meet/MainActivity;->buildURL(Ljava/lang/String;)Ljava/net/URL;
