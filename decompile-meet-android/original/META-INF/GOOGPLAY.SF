@@ -2806,7 +2806,7 @@ SHA-256-Digest: hHe0MRlN5L9CZG40zP5IWZaKcprPZO6+7oTeG6u3a1Q=
 Name: res/mipmap-anydpi-v26/ic_launcher_round.xml
 SHA-256-Digest: cIFtj0IPyjxiWelQdwxVLtRCsUO9vT+pxRA37s8Ix7U=
 
-Name: res/mipmap-hdpi-v4/ic_launcher.png
+Name: res/mipmap-hdpi-v4/ic_launcher1.png
 SHA-256-Digest: wmYOKN9NRBamCXP15TbCaBII8zV4eo67pbeBIJNNTzo=
 
 Name: res/mipmap-hdpi-v4/ic_launcher_foreground.png
@@ -2815,7 +2815,7 @@ SHA-256-Digest: niAtjXjuIYRDOCrfHZ/uI85O9nRF7yxHdHef2vNgJZ4=
 Name: res/mipmap-hdpi-v4/ic_launcher_round.png
 SHA-256-Digest: 86tE6k/IkefvwHXvPgQB8bZKZQ5FXpKDyO1Y0bUIx7U=
 
-Name: res/mipmap-mdpi-v4/ic_launcher.png
+Name: res/mipmap-mdpi-v4/ic_launcher1.png
 SHA-256-Digest: VQZX0YmzOe/PNAo5zGD8IXCeF8TfI2feO+m0MZiDusM=
 
 Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
@@ -2824,7 +2824,7 @@ SHA-256-Digest: e6XbxrMZg77BsnrlMqKp0aeZ+3vHBvyQ8NU7MniqLX0=
 Name: res/mipmap-mdpi-v4/ic_launcher_round.png
 SHA-256-Digest: iX2Cvx17WgRwbLmZgqREe2n8kgCCnJ8664G9yYUJrJ0=
 
-Name: res/mipmap-xhdpi-v4/ic_launcher.png
+Name: res/mipmap-xhdpi-v4/ic_launcher1.png
 SHA-256-Digest: 9qR+74Uxcf+cODNk9vcdZ+O/4p5t7+z8mWV5jZbbPB8=
 
 Name: res/mipmap-xhdpi-v4/ic_launcher_foreground.png
@@ -2833,7 +2833,7 @@ SHA-256-Digest: eWHvomVO35q3Fz1tag+qHB8NPbQng//KyuRo0QB74K0=
 Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
 SHA-256-Digest: sowrTjPjc1R/FDnOW2p4LC3Ez0lSKwuLkIadU8i2UOw=
 
-Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+Name: res/mipmap-xxhdpi-v4/ic_launcher1.png
 SHA-256-Digest: lU9a/DYC1Qyzn0b10BKC5lMsibMOvRDIy0wJumBSDKM=
 
 Name: res/mipmap-xxhdpi-v4/ic_launcher_foreground.png
@@ -2842,7 +2842,7 @@ SHA-256-Digest: ohLGdgRFENEK5f2eknuyNXSnRLKVzv+IPaLBRXtLc8g=
 Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
 SHA-256-Digest: wwFCWHBqTC5IPVJUsNeY5dU31KT7DJrmkWSdsg6Tzgo=
 
-Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+Name: res/mipmap-xxxhdpi-v4/ic_launcher1.png
 SHA-256-Digest: weBY0CTjitfwj0pIUBq4CkhPGoxYl1HTmB0oR36/BiQ=
 
 Name: res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png
